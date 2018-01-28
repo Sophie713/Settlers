@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Settlers</string>
+    <string name="pl1">+1</string>
+    <string name="pl2">+2</string>
+    <string name="mi1">-1</string>
+    <string name="reset">RESET</string>
+</resources>
